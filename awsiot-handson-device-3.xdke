@@ -1,0 +1,84 @@
+{
+  "project": {
+    "projectSettingsVersion": "2.0.0",
+    "initialAutoPluginCount": 0,
+    "currentBuildConfiguration": "Android",
+    "projectFiles": {},
+    "projectDirectories": {}
+  },
+  "iot-tab": {
+    "fileStatus": {
+      "README.md": {
+        "previousModTime": 1445604468000,
+        "modified": 1445604468000,
+        "seen": true,
+        "name": "README.md"
+      },
+      "awsiot-handson-device-3.xdk": {
+        "previousModTime": 1445604469000,
+        "modified": 1445604469000,
+        "seen": true,
+        "name": "awsiot-handson-device-3.xdk"
+      },
+      "awsiot-handson-device-3.xdke": {
+        "previousModTime": 1445617969000,
+        "modified": 1445617969000,
+        "seen": true,
+        "name": "awsiot-handson-device-3.xdke"
+      },
+      "icon.png": {
+        "previousModTime": 1445604468000,
+        "modified": 1445604468000,
+        "seen": true,
+        "name": "icon.png"
+      },
+      "main.js": {
+        "previousModTime": 1445618045000,
+        "modified": 1445618045000,
+        "seen": true,
+        "name": "main.js"
+      },
+      "package.json": {
+        "previousModTime": 1445611570000,
+        "modified": 1445611570000,
+        "seen": true,
+        "name": "package.json"
+      },
+      "certs/cert.pem": {
+        "previousModTime": 1445604649000,
+        "modified": 1445604649000,
+        "seen": true,
+        "name": "certs/cert.pem"
+      },
+      "certs/privatekey.pem": {
+        "previousModTime": 1445604649000,
+        "modified": 1445604649000,
+        "seen": true,
+        "name": "certs/privatekey.pem"
+      },
+      "certs/publickey.pem": {
+        "previousModTime": 1445604649000,
+        "modified": 1445604649000,
+        "seen": true,
+        "name": "certs/publickey.pem"
+      },
+      "certs/rootca.crt": {
+        "previousModTime": 1445604649000,
+        "modified": 1445604649000,
+        "seen": true,
+        "name": "certs/rootca.crt"
+      },
+      "xdk/project-info.json": {
+        "previousModTime": 1445604469000,
+        "modified": 1445604469000,
+        "seen": true,
+        "name": "xdk/project-info.json"
+      }
+    },
+    "boardFileStatus": {
+      "main.js": {
+        "previousModTime": 1445618051232
+      }
+    }
+  }
+}
